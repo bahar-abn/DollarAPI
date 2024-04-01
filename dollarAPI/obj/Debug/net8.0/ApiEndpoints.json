@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "dollarController",
+    "Method": "GetDollarPrice",
+    "RelativePath": "api/dollar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
